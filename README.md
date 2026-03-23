@@ -7,7 +7,7 @@ This repository contains all the source code and final reports for the final yea
 ## Projects
 
 ### Group 1
-**Project:** [SweepX: Solar Panel Cleaning Drone]()
+**Project:** [SweepX: Solar Panel Cleaning Drone](https://github.com/jacobthh/RSET2022-26-S8-Beta/tree/main/SweepX-Group%201)
 **Members:**
 - E A Aamil Haq (U2203084)
 - Farhan Noushad (U2203092)

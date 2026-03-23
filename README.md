@@ -18,7 +18,7 @@ This repository contains all the source code and final reports for the final yea
 ##
 
 ### Group 7
-**Project:** [SEISMICO: Seismic Monitoring using Distributed Acoustic Sensing]([GROUP-7-Seismic-Monitoring-using-Distributive-Acoustic-Sensing](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/2b00c3013b4f4f00d280e11fa0cb52436fc453a2/GROUP-7-Seismic-Monitoring-using-Distributive-Acoustic-Sensing))
+**Project:** [SEISMICO: Seismic Monitoring using Distributed Acoustic Sensing](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/2b00c3013b4f4f00d280e11fa0cb52436fc453a2/GROUP-7-Seismic-Monitoring-using-Distributive-Acoustic-Sensing)
 **Members:**
 - Jala Vishwa Keerthi (U2203109)
 - Cyriac James Boby (U2203073)
@@ -35,9 +35,8 @@ This repository contains all the source code and final reports for the final yea
 - Jose Chemmanoor (U2203122)
 - Joyal George Joseph (U2203123)
 
-**Guide:** Dr. Sminu Izudheen
-
-
+**Guide:** Dr. Amitha Mathew
+---
 ### Group 15
 **Project:** [Corporate Email Summarization and Task Extraction](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%2015%20Corporate%20Email%20Summarization%20and%20Task%20Extraction)
 **Members:**

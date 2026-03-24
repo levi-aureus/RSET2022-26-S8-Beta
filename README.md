@@ -5,6 +5,7 @@ This repository contains all the source code and final reports for the final yea
 ---
 
 ## Projects
+---
 
 ### Group 2
 
@@ -22,15 +23,15 @@ This repository contains all the source code and final reports for the final yea
 
 ### Group 3
 
-*Project:* [XNFRec: An Generalized Explainable Recommender using Knowledge Graph and Neutrosophic Fuzzy Hypergraph](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%203%20-%20XNFRec)
-*Members:*
+**Project:** [XNFRec: An Generalized Explainable Recommender using Knowledge Graph and Neutrosophic Fuzzy Hypergraph](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%203%20-%20XNFRec)
+**Members:**
 
 - Johaan P Varghese(U2203118)
 - Maria Thomas Manavalan (U2203137)
 - John S Kakkassery (U2203120)
 - Glenda Pinhero (U2203010)
 
-*Guide:* Ms. Mehbooba P Shareef
+**Guide:** Ms. Mehbooba P Shareef
 
 ---
 

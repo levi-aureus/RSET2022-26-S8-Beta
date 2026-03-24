@@ -28,7 +28,7 @@ This repository contains all the source code and final reports for the final yea
 - Johaan P Varghese(U2203118)
 - Maria Thomas Manavalan (U2203137)
 - John S Kakkassery (U2203120)
-- Glenda Pinhero (U22030100)
+- Glenda Pinhero (U2203010)
 
 *Guide:* Ms. Mehbooba P Shareef
 

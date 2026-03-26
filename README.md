@@ -1,11 +1,24 @@
-# Final Year Projects - CSE Batch 2022-26 (S8 Beta)
+<div align="center">
 
-This repository contains all the source code and final reports for the final year projects of the Computer Science and Engineering (CSE) Batch 2022-26, specifically for the S8 CSE Beta section.
+# 🎓 Final Year Projects - CSE Batch 2022-26 (S8 Beta)
+### Rajagiri School of Engineering & Technology (RSET)
+
+[![Batch](https://img.shields.io/badge/Batch-2022--26-blue.svg)](https://github.com/GeorgeET15/RSET2022-26-S8-Beta)
+[![Course](https://img.shields.io/badge/CSE-Beta-orange.svg)](https://github.com/GeorgeET15/RSET2022-26-S8-Beta)
+[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GeorgeET15/RSET2022-26-S8-Beta/graphs/commit-activity)
 
 ---
 
-## Projects
+A centralized repository for all final year project source codes and documentation for the CSE Batch 2022-26 (S8 Beta) students.
+
+[**View All Projects**](#-featured-projects) • [**How to Contribute**](#-how-to-add-your-project)
+
+</div>
+
 ---
+
+## 🏗️ Featured Projects
+
 
 ### Group 1 
 
@@ -49,17 +62,29 @@ This repository contains all the source code and final reports for the final yea
 
 ---
 
-### Group 6
-**Project:** [TITAN: Trash Interception and Termination Autonomous Navigator](https://github.com/GeorgeET15/RSET2022-26-S8-Beta/tree/main/TITAN%3A%20Trash%20Interception%20and%20Termination%20Autonomous%20%20Navigator)
-**Members:**
-- George Emmanuel Thomas (U2203098)
-- Essa P J (U2203089)
-- Kripa Sam Joseph (U2203130)
-- Liya Jacob (U2203134)
+### 🤖 Group 6: TITAN
+**Trash Interception and Termination Autonomous Navigator**
 
-**Guide:** Dr. Jincy J. Fernandez
+> [!TIP]
+> **TITAN** is an autonomous system designed to navigate and intercept trash in aquatic or urban environments using ROS 2 and advanced sensor fusion.
+
+- **Project Link:** [TITAN Source Code](https://github.com/GeorgeET15/RSET2022-26-S8-Beta/tree/main/TITAN%3A%20Trash%20Interception%20and%20Termination%20Autonomous%20%20Navigator)
+- **Status:** 🟢 Final Report Uploaded
+- **Tech Stack:**
+  ![ROS 2](https://img.shields.io/badge/ros2-%2322314E.svg?style=flat&logo=ros&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
+| Role | Name | ID |
+| :--- | :--- | :--- |
+| **Team Lead** | George Emmanuel Thomas | U2203098 |
+| **Member** | Essa P J | U2203089 |
+| **Member** | Kripa Sam Joseph | U2203130 |
+| **Member** | Liya Jacob | U2203134 |
+| **Guide** | **Dr. Jincy J. Fernandez** | - |
 
 ---
+
 ### Group 7
 **Project:** [SEISMICO: Seismic Monitoring using Distributed Acoustic Sensing](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/2b00c3013b4f4f00d280e11fa0cb52436fc453a2/GROUP-7-Seismic-Monitoring-using-Distributive-Acoustic-Sensing)
 **Members:**
@@ -130,5 +155,20 @@ This repository contains all the source code and final reports for the final yea
 
 
 
-> **Note for other groups:** 
-> Please remember to update this `README.md` file to add your own group's details and a link to your project folder when you upload your project source code and reports!
+---
+
+## 🤝 How to Add Your Project
+
+If you are a student in **CSE Batch 2022-26 (S8 Beta)**, please follow these steps to add your project:
+
+1.  **Clone** this repository.
+2.  **Create a folder** for your project (Format: `GroupX_ProjectName`).
+3.  **Upload** your source code and final report.
+4.  **Update this README.md** by adding a section for your group under "Featured Projects" following the Group 6 template.
+5.  **Commit and Push** your changes!
+
+---
+
+<div align="center">
+  Made with ❤️ by CSE Batch 2022-26 (S8 Beta)
+</div>
